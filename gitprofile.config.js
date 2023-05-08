@@ -11,19 +11,19 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'codeninjausman',
+    twitter: 'codeninjausman',
     mastodon: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
     medium: 'arifszn',
-    dev: 'arifszn',
+    dev: 'codeninjausman',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: 'https://codeninjausman.github.io',
+    phone: '+923237404083',
+    email: 'bytesofusman@gmail.com',
   },
   resume: {
     fileUrl:
@@ -104,8 +104,8 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
+    username: 'codeninjausman', // to hide blog section, keep it empty
+    limit: 10, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
@@ -176,11 +176,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  footer: `Muhammad Usman`,
 };
 
 export default config;
